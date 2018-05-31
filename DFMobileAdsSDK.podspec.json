@@ -1,0 +1,27 @@
+{
+  "name": "DFMobileAds",
+  "version": "0.1.0",
+  "summary": "",
+  "description": "",
+  "homepage": "https://duofan.com",
+  "license": {
+    "type": "Copyright",
+    "text": "Copyright 2017 pgyer.com. All rights reserved.\n"
+  },
+  "authors": {
+    "pgyer": "support@pgyer.com"
+  },
+  "platforms": {
+    "ios": "4.3"
+  },
+  "source": {
+    "http": "https://github.com/rikyou215/DFMobileAdsSDK/blob/master/DFMobileAdsSDK.zip"
+  },
+  "vendored_frameworks": [
+    "DFMobileAdsSDK/DFMobileAds.framework",
+    "DFMobileAdsSDK/DFMobileAdsFramework.bundle"
+  ],
+  "frameworks": [
+  ],
+  "requires_arc": false
+}
