@@ -25,5 +25,8 @@
   "resources":[
     "DFMobileAdsFramework.bundle"
   ],
+  "public_header":[
+    "DFMobileAds.h"
+  ],
   "requires_arc": false
 }
