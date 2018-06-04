@@ -1,6 +1,6 @@
 {
   "name": "DFMobileAdsSDK",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "summary": "init",
   "description": "多返联盟sdk",
   "homepage": "https://duofan.com",
@@ -25,5 +25,6 @@
   "resources":[
     "DFMobileAdsFramework.bundle"
   ],
+  "public_header":["DFMobileAds.h"],
   "requires_arc": false
 }
