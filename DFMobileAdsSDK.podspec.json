@@ -1,6 +1,6 @@
 {
   "name": "DFMobileAdsSDK",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "summary": "init",
   "description": "多返联盟sdk",
   "homepage": "https://duofan.com",
@@ -15,7 +15,7 @@
     "ios": "8.0"
   },
   "source": {
-    "http": "https://github.com/rikyou215/DFMobileAdsSDK/raw/06fc3176ba50344a0f209e476cc01fcafd753f81/DFMobileAdsSDK.zip"
+    "http": "https://github.com/rikyou215/DFMobileAdsSDK/raw/master/DFMobileAdsSDK.zip"
   },
   "vendored_frameworks": [
     "DFMobileAds.framework"
