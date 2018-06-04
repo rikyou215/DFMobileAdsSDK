@@ -1,6 +1,0 @@
-framework module DFMobileAds {
-  umbrella header "DFMobileAds.h"
-
-  export *
-  module * { export * }
-}
