@@ -18,12 +18,12 @@
     "http": "https://github.com/rikyou215/DFMobileAdsSDK/raw/master/DFMobileAdsSDK.zip"
   },
   "vendored_frameworks": [
-    "DFMobileAds.framework"
+    "DFMobileAdsSDK/DFMobileAds.framework"
   ],
   "frameworks": [
   ],
   "resources":[
-    "DFMobileAdsFramework.bundle"
+    "DFMobileAdsSDK/DFMobileAdsFramework.bundle"
   ],
   "requires_arc": false
 }
