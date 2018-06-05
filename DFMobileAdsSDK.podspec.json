@@ -1,12 +1,12 @@
 {
   "name": "DFMobileAdsSDK",
-  "version": "0.1.14",
-  "summary": "init",
+  "version": "1.0.0",
+  "summary": "1.0.0",
   "description": "多返联盟sdk",
   "homepage": "https://duofan.com",
   "license": {
     "type": "Copyright",
-    "text": "Copyright 2017 pgyer.com. All rights reserved.\n"
+    "text": "Copyright 2017 duofan.com. All rights reserved.\n"
   },
   "authors": {
     "pgyer": "support@pgyer.com"
