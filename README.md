@@ -14,7 +14,7 @@
    ![](https://static.pgyer.com/image/view/admin_images/2867655404ac703d94f4b7382da96880)
 
 ### SDK 集成
-Duofan提供两种集成方式供iOS开发者选择
+Duofan提供两种集成方式供iOS开发者选择,支持iOS8.0以上版本
 
 * 通过CocoaPods集成
 * 手动集成
@@ -37,6 +37,7 @@ Duofan提供两种集成方式供iOS开发者选择
 ####手动集成
 * 下载 [DuoFan iOS SDK](https://github.com/rikyou215/DFMobileAdsSDK/raw/master/DFMobileAdsSDK.zip)
 * 拖拽DFMobileAds.framework和DFMobileAdsFramework.bundle文件到Xcode工程内(请勾选Copy items if needed选项)
+* 在目标的编译设置中，在 Other Linker Settings 添加 [-ObjC](https://developer.apple.com/library/archive/qa/qa1490/_index.html)
 
 ### 初始化SDK
 
