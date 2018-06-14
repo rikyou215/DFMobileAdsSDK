@@ -1,7 +1,7 @@
 {
   "name": "DFMobileAdsSDK",
-  "version": "1.0.1",
-  "summary": "1.0.1",
+  "version": "1.0.2",
+  "summary": "1.0.2",
   "description": "多返联盟sdk",
   "homepage": "https://duofan.com",
   "license": {
@@ -21,6 +21,7 @@
     "DFMobileAdsSDK/DFMobileAds.framework"
   ],
   "frameworks": [
+    "WebKit"
   ],
   "resources":[
     "DFMobileAdsSDK/DFMobileAdsFramework.bundle"
